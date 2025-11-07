@@ -3,7 +3,7 @@
     height:55mm;
     padding:10px;
     border: 4px solid black;
-    background-color: rebeccapurple;
+    background: linear-gradient(#7C15D6, #AC15D6, #D315D6);
     border-radius:20px;
     box-sizing: border-box;
 }
