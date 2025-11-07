@@ -22,3 +22,11 @@
     - Adresse e-mail
     - Image d'une photo ou d'un logo
 3. Commit et push le code
+
+## 3 - Styliser le texte
+
+1. Crée un fichier `style.css`
+2. Lie ce fichier dans la page `index.html` à l'aide de l'élément `<link>`
+3. Dans le fichier `style.css` ajoute des déclarations CSS pour styliser le texte (alignement, taille, police, couleur, ombre, décoration, ...). Adapte le fichier `index.html` en conséquence
+    - Tu peux utiliser le concept de sélecteur **d'élement** et de **classe CSS** vu en cours
+3. Commit et push le code
